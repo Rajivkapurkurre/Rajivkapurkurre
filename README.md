@@ -2,9 +2,9 @@
 
 # Hi, I'm Rajiv Kapur 👋
 
-### Software Engineer | Building Custom Web Apps, APIs & Cloud Solutions
+### Software Engineer | SaaS, AI & Full-Stack Architect
 
-[![Website](https://img.shields.io/badge/Website-sirmint.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sirmint.in)
+[![Contra](https://img.shields.io/badge/Hire_me_on-Contra-000000?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/rajiv_kapur_aks3yeo4?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=rajiv_kapur_aks3yeo4)
 [![GitHub](https://img.shields.io/badge/GitHub-Rajivkapurkurre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajivkapurkurre)
 
 </div>
@@ -13,12 +13,12 @@
 
 ### 🚀 About Me
 
-I'm a software engineer at **Sirmint Technology**, focused on designing and building:
+I'm a Software Engineer focused on designing and building:
 
-- Custom **web applications**
-- Robust **APIs**
+- Custom **web applications** & SaaS products
+- Robust **APIs** and backend systems
 - Scalable **cloud infrastructure**
-- Business software solutions
+- AI-powered applications and digital commerce platforms
 
 I love turning ideas into production-ready systems that solve real business problems.
 
@@ -38,9 +38,10 @@ I love turning ideas into production-ready systems that solve real business prob
 
 ### 💼 Currently
 
-- 🔭 Building custom software and digital products at [Sirmint Technology](https://sirmint.in)
+- 🔭 Building production-ready SaaS, AI applications and digital commerce platforms
 - 🌱 Exploring AI-powered automation and modern cloud architectures
 - 💡 Open to collaborating on interesting full-stack and cloud projects
+- 🤝 Available for freelance work on [Contra](https://contra.com/rajiv_kapur_aks3yeo4?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=rajiv_kapur_aks3yeo4)
 
 ---
 
@@ -58,8 +59,7 @@ I love turning ideas into production-ready systems that solve real business prob
 
 ### 📫 Let's Connect
 
-- 🌐 Website: [sirmint.in](https://sirmint.in)
-- 💼 Company: Sirmint Technology
+- 🔗 Hire me: [contra.com/rajiv_kapur_aks3yeo4](https://contra.com/rajiv_kapur_aks3yeo4?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=rajiv_kapur_aks3yeo4)
 - 📍 Location: India
 
 ---
